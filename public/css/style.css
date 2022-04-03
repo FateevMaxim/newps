@@ -1134,7 +1134,7 @@ section.testimonial-area .testimonial-wrap {
 section.testimonial-area .testimonial-wrap::before {
   position: absolute;
   content: "";
-  background-image: url(images/path1.png);
+  background-image: url(../images/path1.png);
   background-repeat: no-repeat;
   background-size: 100%;
   width: 180px;
@@ -1146,7 +1146,7 @@ section.testimonial-area .testimonial-wrap::before {
 section.testimonial-area .testimonial-wrap::after {
   position: absolute;
   content: "";
-  background-image: url(images/path2.png);
+  background-image: url(../images/path2.png);
   background-repeat: no-repeat;
   background-size: 100%;
   width: 235px;
@@ -1273,7 +1273,7 @@ section.testimonial-area .client-comment .testimonial-item {
 section.testimonial-area .client-comment .testimonial-item::before {
   position: absolute;
   content: "";
-  background-image: url(images/down.png);
+  background-image: url(../images/down.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
