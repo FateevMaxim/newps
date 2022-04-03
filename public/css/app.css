@@ -2031,6 +2031,17 @@ progress {
   color: #000;
   border-color: #bacbe6;
 }
+.table-ps {
+  --bs-table-bg: #2c5871;
+  --bs-table-striped-bg: #2c5871;
+  --bs-table-striped-color: #fff;
+  --bs-table-active-bg: #2c5871;
+  --bs-table-active-color: #fff;
+  --bs-table-hover-bg: #2c5871;
+  --bs-table-hover-color: #fff;
+  color: #fff;
+  border-color: #2c5871;
+}
 
 .table-secondary {
   --bs-table-bg: #e2e3e5;

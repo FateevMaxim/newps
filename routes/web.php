@@ -13,15 +13,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', [App\Http\Controllers\MainController::class, 'index'])->name('index');
+Route::get('/pricelist', [App\Http\Controllers\MainController::class, 'pricelist'])->name('pricelist');
+
 
 Route::get('/doctors', function () {
-    return view('layouts.doctors');
+    return view('doctors');
 });
 
 
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+Route::resource('/price', 'App\Http\Controllers\PriceControllerResourse');
+

@@ -7,6 +7,11 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
+    <link type="image/png" sizes="16x16" rel="icon" href="{{asset("images/favicon16.png")}}">
+    <link type="image/png" sizes="32x32" rel="icon" href="{{asset("images/favicon32.png")}}">
+    <link type="image/png" sizes="96x96" rel="icon" href="{{asset("images/favicon96.png")}}">
+    <link type="image/png" sizes="120x120" rel="icon" href="{{asset("images/favicon120.png")}}">
+    <link type="image/x-icon" rel="shortcut icon" href="{{asset("images/favicon.ico")}}">
     <title>@lang('Стоматология Perfect Stom')</title>
 
     <!-- Scripts -->
