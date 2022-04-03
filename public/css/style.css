@@ -901,7 +901,7 @@ section.our-team-area .doctor-list .doctor-item .single-doctor-item .team-detail
 section.our-team-area .doctor-list .doctor-item .single-doctor-item .team-details::after {
   position: absolute;
   content: "";
-  background-image: url(images/pretur.png);
+  background-image: url(../images/pretur.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 90%;
@@ -1001,7 +1001,7 @@ section.our-team-area .doctor-list .doctor-item .single-doctor-item:hover .team-
 /* 08 ----------------our-team area End-------------------*/
 /* 09 ----------------Experience area start----------------*/
 section.experience-area {
-  background-image: url(images/experience-bg.jpg);
+  background-image: url(..images/experience-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
