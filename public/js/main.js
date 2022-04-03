@@ -55,7 +55,7 @@
         type: 'video'
     })
 
-    var mixer = mixitup('.doctor-list');
+    //var mixer = mixitup('.doctor-list');
 
 
     $( "#datepicker" ).datepicker();
