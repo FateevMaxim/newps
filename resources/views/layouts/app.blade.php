@@ -39,7 +39,7 @@
     <script src="{{ asset('js/jquery.sticky.js') }}"></script>
     <script src="{{ asset('js/jquery.slicknav.min.js') }}"></script>
     <script src="{{ asset('js/jquery.magnific-popup.min.js') }}"></script>
-    {{--<script src="{{ asset('js/mixitup.min.js') }}"></script>--}}
+    <script src="{{ asset('js/mixitup.min.js') }}"></script>
     <script src="{{ asset('js/jquery-ui.min.js') }}"></script>
     <script src="{{ asset('js/ajaxchimp.min.js') }}"></script>
     <script src="{{ asset('js/form-contact.js') }}"></script>
