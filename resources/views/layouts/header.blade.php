@@ -26,7 +26,7 @@
         <div class="row navigation-area">
             <div class="col-lg-2 logo-col">
                 <div class="logo-area">
-                    <a href="#">
+                    <a href="/">
                         <img src="{{ asset('images/logobgless.svg') }}" width="100" alt="Perfect Stom">
                     </a>
                 </div>
