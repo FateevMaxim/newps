@@ -12,8 +12,9 @@
     <link type="image/png" sizes="96x96" rel="icon" href="{{asset("images/favicon96.png")}}">
     <link type="image/png" sizes="120x120" rel="icon" href="{{asset("images/favicon120.png")}}">
     <link type="image/x-icon" rel="shortcut icon" href="{{asset("images/favicon.ico")}}">
-    <title>@lang('Стоматология Perfect Stom')</title>
+    <title>@lang('Стоматология Perfect Stom в Алматы')</title>
 
+    <meta name="description" content="Стоматологическая клиника в Алматы, установка имплантов, брекетов, лечение зубов, исправление прикуса, консультация бесплатно." />
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
     <!-- Fontawesome all css -->
