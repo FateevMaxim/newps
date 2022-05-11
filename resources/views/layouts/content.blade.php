@@ -17,12 +17,12 @@
         <div class="row">
             <div class="col-lg-7 hero-col col-sm-12">
                 <div class="hero-content">
-                    <h1>Ура рассрочка <span class="text-red">0-0-3 от Kaspi!</span></h1>
-                    {{--<figure>
+                    <h1>Ура рассрочка <span class="text-red">0-0-12 от Kaspi!</span></h1>
+                    <figure>
                         <figcaption class="blockquote-footer">
-                            до 10 мая
+                            до 29 мая
                         </figcaption>
-                    </figure>--}}
+                    </figure>
                     <p>Рассрочка на весь спектр услуг стоматологии. <br />Успейте записаться на бесплатную консультацию!
                     </p>
                     <div class="hero-btn">
@@ -56,7 +56,7 @@
                 <div class="single-services-item">
                     <img src="{{ asset('images/unique/kaspi21.02.svg') }}" width="120" alt="services1">
                     <h3>Рассрочка <br>Kaspi</h3>
-                    <p>Скоро будет проходить акция от Kaspi - рассрочка 0-0-12 с 16 мая по 22 мая. Записывайтесь на Бесплатную консультацию сейчас!</p>
+                    <p>Сейчас проходит акция от Kaspi - рассрочка 0-0-12 до 29 мая. Записывайтесь на Бесплатную консультацию сейчас!</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 services-col active">
