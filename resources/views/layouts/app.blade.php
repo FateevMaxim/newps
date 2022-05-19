@@ -48,6 +48,7 @@
     </script>
     <noscript><div><img src="https://mc.yandex.ru/watch/41406904" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
     <!-- /Yandex.Metrika counter -->
+    <script src="//code.jivo.ru/widget/EoPjFEWTq0" async></script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
