@@ -26,5 +26,8 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
-Route::resource('/price', 'App\Http\Controllers\PriceControllerResourse');
+Route::middleware('auth')->group(function (){
+    Route::resource('/price', 'App\Http\Controllers\PriceControllerResourse');
+});
+
 

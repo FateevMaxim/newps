@@ -5,7 +5,7 @@
                 <div class="single-footer-item">
                     <div class="footer-logo">
                         <a href="#">
-                            <img src="{{ asset('images/logo.svg') }}" width="120" alt="Perfect Stom">
+                            <img src="{{ asset('images/white_version.svg') }}" width="120" alt="Perfect Stom">
                         </a>
                     </div>
                     <p>@lang('Perfect Stom - Безболезненно, безопасно, комфортно, в приятной дружелюбной обстановке мы вернем здоровье вашим зубам и красоту вашей улыбке. Результат превзойдет все ваши ожидания!')</p>

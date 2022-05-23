@@ -6,7 +6,7 @@
                     <ul>
                         <li><a href="tel:+77471121398"><i class="fas fa-phone-alt"></i>+7 (747) 112-13-98</a></li>
                         <li><a href="https://api.whatsapp.com/send?phone=77471121398"><i class="fab fa-whatsapp"></i>What's App</a></li>
-                        <li><i class="fas fa-clock"></i>Пн-Вс с 09:00 до 19:00</li>
+                        <li><i class="fas fa-clock"></i>Пн-Сб с 09:00 до 19:00</li>
                     </ul>
                 </div>
             </div>
